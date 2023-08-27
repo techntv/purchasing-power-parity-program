@@ -16,14 +16,10 @@ This list features a curated set of global products with Purchasing Power Parity
 
 ## Contents
 
-- [Entertainment](#entertainment)
 - [Books](#books)
 - [Courses](#courses)
-- [Enterprise](#enterprise)
 - [Productivity](#productivity)
-- [SaaS](#saas)
 - [List](#list)
-- [Developer Tools](#developer-tools)
 - [Tools](#tools)
 - [Resources](#resources)
 
@@ -96,7 +92,7 @@ This list features a curated set of global products with Purchasing Power Parity
 - [JustDjango Tutorial Hub](https://justdjango.com/tutorial-hub) \
   Contact [@justdjangocode](https://twitter.com/justdjangocode/status/1331466567381639170) on Twitter for PPP
 
-## Developer Tools
+## Tools
 
 - [Ray](https://myray.app)
 - [Mailcoach](https://mailcoach.app)
@@ -104,9 +100,6 @@ This list features a curated set of global products with Purchasing Power Parity
 - [Divjoy](https://divjoy.com) \
   Send a DM to [@gabe_ragland](https://www.twitter.com/gabe_ragland) on Twitter for PPP discount
 - [Dracula Pro](https://draculatheme.com/pro)
-
-## Tools
-
 - [Parity Bar](https://paritybar.com) \
   Offer your customers a discount based on their location
 - [PPP API](https://purchasing-power-parity.com) \
